@@ -1,13 +1,13 @@
 [
   {
     "full_name": "ajnart/homarr",
-    "stargazers_count": 1621,
-    "open_issues_count": 48,
+    "stargazers_count": 1628,
+    "open_issues_count": 50,
     "forks_count": 76
   },
   {
     "full_name": "jez500/bender",
-    "stargazers_count": 74,
+    "stargazers_count": 73,
     "open_issues_count": 8,
     "forks_count": 0
   },
@@ -15,30 +15,30 @@
     "full_name": "FD-/RPiPlay",
     "stargazers_count": 4451,
     "open_issues_count": 91,
-    "forks_count": 330
+    "forks_count": 329
   },
   {
     "full_name": "abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
-    "stargazers_count": 5460,
+    "stargazers_count": 5466,
     "open_issues_count": 23,
-    "forks_count": 1529
+    "forks_count": 1535
   },
   {
     "full_name": "sourceplusplus/interface-jetbrains",
     "stargazers_count": 85,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "pivovarit/parallel-collectors",
     "stargazers_count": 449,
-    "open_issues_count": 2,
+    "open_issues_count": 4,
     "forks_count": 44
   },
   {
     "full_name": "pivovarit/throwing-function",
     "stargazers_count": 334,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 55
   },
   {
@@ -61,26 +61,26 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 63521,
+    "stargazers_count": 63554,
     "open_issues_count": 13,
     "forks_count": 6131
   },
   {
     "full_name": "os-js/OS.js",
-    "stargazers_count": 6191,
+    "stargazers_count": 6193,
     "open_issues_count": 15,
-    "forks_count": 789
+    "forks_count": 788
   },
   {
     "full_name": "iluwatar/java-design-patterns",
-    "stargazers_count": 78974,
-    "open_issues_count": 210,
-    "forks_count": 24441
+    "stargazers_count": 79006,
+    "open_issues_count": 214,
+    "forks_count": 24455
   },
   {
     "full_name": "arasatasaygin/is.js",
-    "stargazers_count": 9181,
-    "open_issues_count": 46,
+    "stargazers_count": 9182,
+    "open_issues_count": 47,
     "forks_count": 662
   }
 ]
